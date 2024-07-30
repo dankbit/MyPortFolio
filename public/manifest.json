@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "short_name": "UtsavDodiya",
   "name": "Portfolio",
@@ -18,3 +19,25 @@
   "theme_color": "#284be5",
   "background_color": "#ffffff"
 }
+=======
+{
+  "short_name": "UtsavDodiya",
+  "name": "Portfolio",
+  "icons": [
+    {
+      "src": "favicon-32x32.png",
+      "sizes": "35x35",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "219x40"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#284be5",
+  "background_color": "#ffffff"
+}
+>>>>>>> f057f81 (Updated Site)
