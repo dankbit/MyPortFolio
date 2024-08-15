@@ -56,17 +56,17 @@ const HomePage = () => {
         <title>Utsav-Dodiya</title>
       </Helmet>
       {/* <ScrollWrapper> */}
-      <Header></Header>
-      <FeaturedArea></FeaturedArea>
-      <AboutUs></AboutUs>
-      <Services></Services>
-      <MyWorkExperience></MyWorkExperience>
-      <EducationAndSkills></EducationAndSkills>
-      <Portfolio></Portfolio>
-      <FreelanceWork></FreelanceWork>
-  
-      <ContactUs></ContactUs>
-      <BottomBar></BottomBar>
+      <Header />
+      <FeaturedArea />
+      <AboutUs />
+      <Services />
+      <MyWorkExperience />
+      <EducationAndSkills />
+      <Portfolio />
+      <FreelanceWork />
+
+      <ContactUs />
+      <BottomBar />
     </Fragment>
   );
 };
