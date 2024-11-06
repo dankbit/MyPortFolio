@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { skills } from "../../data/skills";
 import { SectionTitleIcon } from "../SectionTitles";
 
@@ -44,6 +45,8 @@ export default Skills;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { skills } from "../../data/skills";
 import { SectionTitleIcon } from "../SectionTitles";
 
@@ -85,6 +88,7 @@ const Skills = (props) => {
 };
 
 export default Skills;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -132,3 +136,5 @@ const Skills = (props) => {
 export default Skills;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

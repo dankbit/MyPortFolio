@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 export const education = [
   {
     eduDate: "2021 - 2025",
@@ -21,6 +22,8 @@ export const education = [
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 export const education = [
   {
     eduDate: "2021 - 2025",
@@ -39,6 +42,7 @@ export const education = [
   },
   
 ];
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -63,3 +67,5 @@ export const education = [
 ];
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

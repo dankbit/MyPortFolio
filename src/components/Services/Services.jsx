@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import React from 'react';
 import { Link  } from 'react-scroll';
 import PatternImg2 from "../../assets/images/patternImg2.jpg";
@@ -69,6 +70,8 @@ export default Services;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import React from 'react';
 import { Link  } from 'react-scroll';
 import PatternImg2 from "../../assets/images/patternImg2.jpg";
@@ -135,6 +138,7 @@ const Services = () => {
 };
 
 export default Services;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -207,3 +211,5 @@ const Services = () => {
 export default Services;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

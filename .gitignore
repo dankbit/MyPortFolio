@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 node_modules
 =======
 =======
@@ -34,3 +35,6 @@ yarn-error.log*
 node_modules
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+node_modules
+>>>>>>> ab762c9 (done)

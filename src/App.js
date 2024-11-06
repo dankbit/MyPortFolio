@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import React, { useEffect, useState } from "react";
 import RouterLinks from "./router/Routes";
 import { PushSpinner } from "react-spinners-kit";
@@ -44,6 +45,8 @@ export default App;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import React, { useEffect, useState } from "react";
 import RouterLinks from "./router/Routes";
 import { PushSpinner } from "react-spinners-kit";
@@ -85,6 +88,7 @@ function App() {
 }
 
 export default App;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -132,3 +136,5 @@ function App() {
 export default App;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

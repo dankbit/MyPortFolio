@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import SmoothScroll from "../components/SmoothScroll/SmoothScroll";
 
@@ -25,6 +26,8 @@ export default RouterLinks;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import SmoothScroll from "../components/SmoothScroll/SmoothScroll";
 
@@ -47,6 +50,7 @@ const RouterLinks = () => {
 };
 
 export default RouterLinks;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -75,3 +79,5 @@ const RouterLinks = () => {
 export default RouterLinks;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

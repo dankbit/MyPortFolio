@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -79,6 +80,8 @@ module.exports = {
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -155,6 +158,7 @@ module.exports = {
     require("tailwind-scrollbar"),
   ],
 };
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -237,3 +241,5 @@ module.exports = {
 };
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

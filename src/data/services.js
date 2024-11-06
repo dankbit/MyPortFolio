@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { ReactComponent as UiCreativeDesignIcon } from "../lib/icons/Curve.svg";
 import { ReactComponent as DesktopApplicationIcon } from "../lib/icons/InformationService.svg";
 import { ReactComponent as WebDevelopmentIcon } from "../lib/icons/Monitor.svg";
@@ -66,6 +67,8 @@ export const services = [
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { ReactComponent as UiCreativeDesignIcon } from "../lib/icons/Curve.svg";
 import { ReactComponent as DesktopApplicationIcon } from "../lib/icons/InformationService.svg";
 import { ReactComponent as WebDevelopmentIcon } from "../lib/icons/Monitor.svg";
@@ -80,8 +83,8 @@ export const services = [
     titleColor: "text-white",
     descColor: "text-white",
     servIcon: <UiCreativeDesignIcon className="h-[4.25rem] w-[4.25rem] fill-white"></UiCreativeDesignIcon>,
-    servTitle: "UI/UX Creative Design",
-    servDesc: "Crafting seamless digital experiences that prioritize user satisfaction and engagement.",
+    servTitle: "Business Analyst",
+    servDesc: "Providing data-driven insights to optimize business processes and achieve goals.",
   },
   {
     id: 2,
@@ -108,7 +111,7 @@ export const services = [
     descColor: "text-desc2",
     servIcon: <DesktopApplicationIcon className="h-[4.25rem] w-[4.25rem] fill-accent"></DesktopApplicationIcon>,
     servTitle: "Wireframing Services",
-    servDesc: "I specialize in creating detailed wireframes that ensure intuitive flow and structure for seamless development and user interaction",
+    servDesc: "Specializing in wireframes for intuitive flow and seamless user interaction.",
   },
   {
     id: 5,
@@ -129,6 +132,7 @@ export const services = [
     servDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore.",
   },
 ];
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -198,3 +202,5 @@ export const services = [
 ];
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

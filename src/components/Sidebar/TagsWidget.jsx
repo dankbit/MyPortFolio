@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import PatternImg2 from "../../assets/images/patternImg2.jpg";
 
 const tagList = [
@@ -72,6 +73,8 @@ export default TagsWidget;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import PatternImg2 from "../../assets/images/patternImg2.jpg";
 
 const tagList = [
@@ -141,6 +144,7 @@ const TagsWidget = () => {
 };
 
 export default TagsWidget;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -216,3 +220,5 @@ const TagsWidget = () => {
 export default TagsWidget;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

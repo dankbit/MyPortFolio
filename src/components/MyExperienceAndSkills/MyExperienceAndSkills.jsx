@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { MyWorkExperience2 } from "../MyWorkExperience";
 import { Skills2 } from "../Skills";
 
@@ -16,6 +17,8 @@ export default MyExperienceAndSkills;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { MyWorkExperience2 } from "../MyWorkExperience";
 import { Skills2 } from "../Skills";
 
@@ -29,6 +32,7 @@ const MyExperienceAndSkills = () => {
 };
 
 export default MyExperienceAndSkills;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -48,3 +52,5 @@ const MyExperienceAndSkills = () => {
 export default MyExperienceAndSkills;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

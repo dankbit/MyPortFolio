@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { useEffect, useRef } from 'react';
 import { FiChevronRight } from 'react-icons/fi';
 import { Link as ScrollLink } from 'react-scroll';
@@ -190,6 +189,7 @@ const FeaturedArea = () => {
 };
 
 export default FeaturedArea;
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 import React, { useEffect, useRef } from "react";
@@ -579,3 +579,5 @@ const FeaturedArea = () => {
 export default FeaturedArea;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

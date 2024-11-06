@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 const SectionTitleLightFull = (props) => {
   return (
     <div className="secTitleWrap relative flex w-full mb-[2.1875rem]">
@@ -23,6 +24,8 @@ export default SectionTitleLightFull;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 const SectionTitleLightFull = (props) => {
   return (
     <div className="secTitleWrap relative flex w-full mb-[2.1875rem]">
@@ -43,6 +46,7 @@ const SectionTitleLightFull = (props) => {
 };
 
 export default SectionTitleLightFull;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -69,3 +73,5 @@ const SectionTitleLightFull = (props) => {
 export default SectionTitleLightFull;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

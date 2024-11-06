@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 export { default as HomePage } from "./HomePage";
 =======
 export { default as HomePage } from "./HomePage";
@@ -10,3 +11,6 @@ export { default as HomePage } from "./HomePage";
 export { default as HomePage } from "./HomePage";
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+export { default as HomePage } from "./HomePage";
+>>>>>>> ab762c9 (done)

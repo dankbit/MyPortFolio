@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import PatternImg2 from '../../assets/images/patternImg2.jpg';
 import FreelanceWorkMockup from '../../assets/images/resources/frrelancepic.jpg';
 
@@ -59,6 +58,7 @@ const FreelanceWork = () => {
 };
 
 export default FreelanceWork;
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 import { Link } from "react-router-dom";
@@ -186,3 +186,5 @@ const FreelanceWork = () => {
 export default FreelanceWork;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

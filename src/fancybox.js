@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import React, { useEffect } from "react";
 
 import { Fancybox as NativeFancybox } from "@fancyapps/ui/dist/fancybox.esm.js";
@@ -25,6 +26,8 @@ export default Fancybox;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import React, { useEffect } from "react";
 
 import { Fancybox as NativeFancybox } from "@fancyapps/ui/dist/fancybox.esm.js";
@@ -47,6 +50,7 @@ function Fancybox(props) {
 }
 
 export default Fancybox;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -75,3 +79,5 @@ function Fancybox(props) {
 export default Fancybox;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

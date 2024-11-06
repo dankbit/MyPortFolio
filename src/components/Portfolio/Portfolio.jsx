@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> ab762c9 (done)
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Link as ScrollLink } from 'react-scroll';
@@ -39,38 +42,27 @@ const Portfolio = () => {
                     />
                     <div className='projInfo transition-all ease-in-out duration-500 delay-200 absolute left-0 group-hover:top-2/4 top-3/4 translate-y-[-50%] p-5 text-center w-full z-[1] opacity-0 invisible group-hover:opacity-100 group-hover:visible'>
                       <h3 className='text-white text-[1.375rem] md:text-[1.625rem] font-Poppins font-bold'>
-                        <a
-                          href={item.projSrc}
-                          title={item.portTitle}
-                        >
-                          {item.portTitle}
-                        </a>
+                      <a
+                            href="https://iidglobalinstitute.com/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            title={item.portTitle}
+                          >
+                            {item.portTitle}
+                          </a>
                       </h3>
                       <p className='text-white font-NunitoSans text-[1rem] md:text-[1.125rem] mt-1'>
                         {item.portSubTitle}
                       </p>
-                      <ScrollLink
-                        className='inline-flex items-center justify-center border-[2px] sm:border-[5px] border-[rgba(255,255,255,.25)] hover:border-white rounded-[10px] h-[2.5rem] w-[2.5rem] sm:h-[3.5625rem] sm:w-[3.5625rem] mt-5'
-                        to='projects'
-                        spy={true}
-                        smooth={true}
-                        offset={-80}
-                        duration={500}
-                        title={item.portTitle}
-                      >
+                      {item.id === 'iid-global' ? (
                         <RightDownIcon
-                          onClick={() => {
-                            window.open(
-                              `${item.projSrc}`,
-                              '_blank'
-                            );
-                          }}
-                          className='h-2.5 w-2.5 sm:h-4 sm:w-4 fill-white'
-                        />
-                      </ScrollLink>
-
-                      {/* {item.id === 'iid-global' ? (
-                        <RightDownIcon className='h-2.5 w-2.5 sm:h-4 sm:w-4 fill-white' />
+                        onClick={() => {
+                          window.open(
+                            'https://iidglobalinstitute.com/',
+                            '_blank'
+                          );
+                        }}
+                         className='h-2.5 w-2.5 sm:h-4 sm:w-4 fill-white' />
                       ) : (
                         <ScrollLink
                           className='inline-flex items-center justify-center border-[2px] sm:border-[5px] border-[rgba(255,255,255,.25)] hover:border-white rounded-[10px] h-[2.5rem] w-[2.5rem] sm:h-[3.5625rem] sm:w-[3.5625rem] mt-5'
@@ -84,14 +76,14 @@ const Portfolio = () => {
                           <RightDownIcon
                             onClick={() => {
                               window.open(
-                                'https://iidglobalinstitute.com/',
+                                'https://designook.vercel.app/',
                                 '_blank'
                               );
                             }}
                             className='h-2.5 w-2.5 sm:h-4 sm:w-4 fill-white'
                           />
                         </ScrollLink>
-                      )} */}
+                      )}
                     </div>
                   </div>
                 </div>
@@ -102,9 +94,10 @@ const Portfolio = () => {
     </section>
   );
 };
-
+        
 export default Portfolio;
 
+<<<<<<< HEAD
 =======
 >>>>>>> 892f3f4 (done)
 import React from 'react';
@@ -307,3 +300,5 @@ export default Portfolio;
 =======
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

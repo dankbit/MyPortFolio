@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { conInfo } from "../../data/contact-info";
 
 const ContactInfo = () => {
@@ -34,6 +35,8 @@ export default ContactInfo;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { conInfo } from "../../data/contact-info";
 
 const ContactInfo = () => {
@@ -65,6 +68,7 @@ const ContactInfo = () => {
 };
 
 export default ContactInfo;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -102,3 +106,5 @@ const ContactInfo = () => {
 export default ContactInfo;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

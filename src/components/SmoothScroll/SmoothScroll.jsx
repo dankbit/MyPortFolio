@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { useEffect } from "react";
 import { useLocation, useNavigationType } from "react-router-dom";
 import gsap from "gsap";
@@ -31,6 +32,8 @@ export default SmoothScroll;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { useEffect } from "react";
 import { useLocation, useNavigationType } from "react-router-dom";
 import gsap from "gsap";
@@ -59,6 +62,7 @@ function SmoothScroll({ children }) {
 }
 
 export default SmoothScroll;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -93,3 +97,5 @@ function SmoothScroll({ children }) {
 export default SmoothScroll;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

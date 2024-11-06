@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 export const ResponsiveMenuData = [
   {
     title: 'Home',
@@ -27,6 +26,7 @@ export const ResponsiveMenuData = [
     path: '/Contact',
   },
 ];
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 import * as FiIcons from "react-icons/fi";
@@ -91,3 +91,5 @@ export const ResponsiveMenuData = [
 ];
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

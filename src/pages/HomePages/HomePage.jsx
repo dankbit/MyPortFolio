@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { Fragment } from 'react';
 import { Helmet } from 'react-helmet';
 import { Header } from '../../components/Header';
@@ -35,6 +34,7 @@ const HomePage = () => {
 };
 
 export default HomePage;
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 import React, { Fragment } from "react";
@@ -113,3 +113,5 @@ const HomePage = () => {
 export default HomePage;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

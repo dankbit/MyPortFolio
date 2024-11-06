@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { CgClose } from "react-icons/cg";
@@ -72,6 +73,8 @@ export default ResponsiveHeader;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { CgClose } from "react-icons/cg";
@@ -141,6 +144,7 @@ const ResponsiveHeader = () => {
 };
 
 export default ResponsiveHeader;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -216,3 +220,5 @@ const ResponsiveHeader = () => {
 export default ResponsiveHeader;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { useLayoutEffect, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { CgClose, CgMenuRight } from 'react-icons/cg';
@@ -58,6 +57,7 @@ const Header = () => {
             <div className='flex items-center justify-between w-full topbarInner'>
               {/* <div className='logo inline-block max-w-[50%]'> */}
                 {/* <Link
+<<<<<<< HEAD
                   to='/'
                   title='Utsav'
                   className='text-5xl text-white font-bold'
@@ -145,14 +145,16 @@ const Header = () => {
             <div className='flex items-center justify-between w-full topbarInner'>
               <div className='logo inline-block max-w-[50%]'>
                 <Link
+=======
+>>>>>>> ab762c9 (done)
                   to='/'
                   title='Utsav'
                   className='text-5xl text-white font-bold'
                 >
-                  UD
-                </Link>
+                  UD */}
+                {/* </Link> */}
                 {/* Logo */}
-              </div>
+              {/* </div> */}
               <div className='hidden menuWrapper'>
                 <MenuLinks></MenuLinks>
               </div>
@@ -160,11 +162,7 @@ const Header = () => {
             {/* Topbar Inner */}
           </div>
           {/* Topbar */}
-        </div>
-        
-          {/* Menu Wrap */}
-        
-        
+        </div> 
         {/* Header */}
       </header>
       <ResponsiveHeader></ResponsiveHeader>
@@ -173,6 +171,7 @@ const Header = () => {
 };
 
 export default Header;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -262,3 +261,5 @@ const Header = () => {
 export default Header;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { ReactComponent as JavaScriptIcon } from "../lib/icons/JavaScript.svg";
 import { ReactComponent as HtmlIcon } from "../lib/icons/Html.svg";
 import { ReactComponent as ReactJSIcon } from "../lib/icons/react-js-icon.svg";
@@ -35,6 +36,8 @@ export const skills = [
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { ReactComponent as JavaScriptIcon } from "../lib/icons/JavaScript.svg";
 import { ReactComponent as HtmlIcon } from "../lib/icons/Html.svg";
 import { ReactComponent as ReactJSIcon } from "../lib/icons/react-js-icon.svg";
@@ -65,7 +68,9 @@ export const skills = [
     skillTitle: "WordPress",
     skillPercent: "80%",
   },
+ 
 ];
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -104,3 +109,5 @@ export const skills = [
 ];
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

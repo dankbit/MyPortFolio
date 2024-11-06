@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import SectionBg from "../../assets/images/expback.jpg";
 import { Skills } from "../Skills";
 import { Education } from "../Education";
@@ -35,6 +36,8 @@ export default EducationAndSkills;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import SectionBg from "../../assets/images/expback.jpg";
 import { Skills } from "../Skills";
 import { Education } from "../Education";
@@ -67,6 +70,7 @@ const EducationAndSkills = () => {
 };
 
 export default EducationAndSkills;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -105,3 +109,5 @@ const EducationAndSkills = () => {
 export default EducationAndSkills;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { social4 } from "../../data/social4";
 
 const SocialLinks = () => {
@@ -29,6 +30,8 @@ export default SocialLinks;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { social4 } from "../../data/social4";
 
 const SocialLinks = () => {
@@ -55,6 +58,7 @@ const SocialLinks = () => {
 };
 
 export default SocialLinks;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -87,3 +91,5 @@ const SocialLinks = () => {
 export default SocialLinks;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

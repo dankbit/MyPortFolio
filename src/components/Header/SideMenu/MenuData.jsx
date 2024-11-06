@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import * as FiIcons from "react-icons/fi";
 
 export const MenuData = [
@@ -114,6 +115,8 @@ export const MenuData = [
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import * as FiIcons from "react-icons/fi";
 
 export const MenuData = [
@@ -225,6 +228,7 @@ export const MenuData = [
     path: "/contact",
   },
 ];
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -342,3 +346,5 @@ export const MenuData = [
 ];
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

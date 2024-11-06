@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { ReactComponent as EducationIcon } from "../../lib/icons/Mortarboard.svg";
 
 const SectionTitleIcon = (props) => {
@@ -16,6 +17,8 @@ export default SectionTitleIcon
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { ReactComponent as EducationIcon } from "../../lib/icons/Mortarboard.svg";
 
 const SectionTitleIcon = (props) => {
@@ -29,6 +32,7 @@ const SectionTitleIcon = (props) => {
 }
 
 export default SectionTitleIcon
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -48,3 +52,5 @@ const SectionTitleIcon = (props) => {
 export default SectionTitleIcon
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

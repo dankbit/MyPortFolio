@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 const SectionTitleSimple = (props) => {
   return (
     <div className="secTitleSimpleWrap gap-3 flex justify-center w-full mb-[1.875rem]">
@@ -15,6 +16,8 @@ export default SectionTitleSimple;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 const SectionTitleSimple = (props) => {
   return (
     <div className="secTitleSimpleWrap gap-3 flex justify-center w-full mb-[1.875rem]">
@@ -27,6 +30,7 @@ const SectionTitleSimple = (props) => {
 };
 
 export default SectionTitleSimple;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -45,3 +49,5 @@ const SectionTitleSimple = (props) => {
 export default SectionTitleSimple;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

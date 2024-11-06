@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { Link } from "react-router-dom";
 import { bottomMenu } from "../../data/bottom-links";
 
@@ -42,6 +43,8 @@ export default BottomBar;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { Link } from "react-router-dom";
 import { bottomMenu } from "../../data/bottom-links";
 
@@ -51,7 +54,7 @@ const BottomBar = () => {
       <div className="container sm:container md:container lg:container xl:container 2xl:container mx-auto">
         <div className="bottomBar gap-4 flex flex-col md:flex-row justify-center md:justify-between items-center">
           <p className=" text-lg md:text-[1.0625rem] font-NunitoSans font-semibold">
-            &copy; 2024@Utsav All Rights Reserved.
+            &copy; All rights reserved by Utsav Dodiya
           </p>
           <ul className="flex relative divide-x divide-solid -mr-6">
             {bottomMenu.map(
@@ -81,6 +84,7 @@ const BottomBar = () => {
 };
 
 export default BottomBar;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -126,3 +130,5 @@ const BottomBar = () => {
 export default BottomBar;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

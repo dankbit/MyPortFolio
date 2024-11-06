@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { FaHome } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import PatternImg2 from "../../assets/images/patternImg2.jpg";
@@ -64,6 +65,8 @@ export default PageTitle;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { FaHome } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import PatternImg2 from "../../assets/images/patternImg2.jpg";
@@ -125,6 +128,7 @@ const PageTitle = (props) => {
 };
 
 export default PageTitle;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -192,3 +196,5 @@ const PageTitle = (props) => {
 export default PageTitle;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

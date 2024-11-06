@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import React from 'react';
 import PatternImg2 from '../../assets/images/patternImg2.jpg';
 import { SectionTitle } from '../SectionTitles';
@@ -123,6 +124,8 @@ export default AboutUs;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import React from 'react';
 import PatternImg2 from '../../assets/images/patternImg2.jpg';
 import { SectionTitle } from '../SectionTitles';
@@ -206,7 +209,7 @@ const AboutUs = (props) => {
                           href='mailto:youremail@gmail.com'
                           title=''
                         >
-                          utsavdodiya.svmr@gmail.com
+                          utsavd.tech@gmail.com
                         </a>
                       </span>
                     </li>
@@ -215,7 +218,7 @@ const AboutUs = (props) => {
                         Address:
                       </strong>
                       <span className='text-desc2 font-semibold font-NunitoSans col-span-2'>
-                        93, AshtVinayak Bungalows, Viramgam
+                        Ahmedabad, Gujarat
                       </span>
                     </li>
                     <li className='grid grid-cols-3 gap-4 text-[1rem] md:text-[1.125rem]'>
@@ -243,6 +246,7 @@ const AboutUs = (props) => {
 };
 
 export default AboutUs;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -369,3 +373,5 @@ const AboutUs = (props) => {
 export default AboutUs;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

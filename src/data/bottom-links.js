@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 export const bottomMenu = [
   {
     bottomMenuCap: "Terms & Condition",
@@ -13,6 +14,8 @@ export const bottomMenu = [
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 export const bottomMenu = [
   {
     bottomMenuCap: "Terms & Condition",
@@ -23,6 +26,7 @@ export const bottomMenu = [
     bottomMenuLink: "#",
   },
 ];
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -39,3 +43,5 @@ export const bottomMenu = [
 ];
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

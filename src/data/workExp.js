@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 import ExpImg1 from '../assets/images/resources/vaibeslogo.png';
@@ -24,6 +25,8 @@ export const workExp = [
 ];
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import ExpImg1 from '../assets/images/resources/vaibeslogo.png';
 import ExpImg3 from '../assets/images/resources/synergylogo.png';
 import ExpImg2 from '../assets/images/resources/daveainewlogo.png';
@@ -59,6 +62,7 @@ export const workExp = [
   },
 ];
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 import ExpImg1 from "../assets/images/resources/vaibeslogo.png";
 import ExpImg2 from "../assets/images/resources/expImg2.jpg";
@@ -85,3 +89,6 @@ export const workExp = [
 =======
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+
+>>>>>>> ab762c9 (done)

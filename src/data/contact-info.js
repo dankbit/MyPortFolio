@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { ReactComponent as HomeIcon } from "../lib/icons/Home.svg";
 import { ReactComponent as EnvelopeIcon } from "../lib/icons/Envelope.svg";
 import { ReactComponent as PhoneIcon } from "../lib/icons/Phone.svg";
@@ -24,6 +25,8 @@ export const conInfo = [
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { ReactComponent as HomeIcon } from "../lib/icons/Home.svg";
 import { ReactComponent as EnvelopeIcon } from "../lib/icons/Envelope.svg";
 import { ReactComponent as PhoneIcon } from "../lib/icons/Phone.svg";
@@ -31,8 +34,8 @@ import { ReactComponent as PhoneIcon } from "../lib/icons/Phone.svg";
 export const conInfo = [
   {
     conIcon: <HomeIcon className="h-[3.4375rem] fill-white"></HomeIcon>,
-    conTitle: "Ahmedabad:",
-    conCap: "93, AshtVinayak Bungalows, Viramgam",
+    conTitle: "Address:",
+    conCap: "Ahmedabad, Gujarat",
   },
   {
     conIcon: <PhoneIcon className="h-[3.4375rem] fill-white"></PhoneIcon>,
@@ -42,9 +45,10 @@ export const conInfo = [
   {
     conIcon: <EnvelopeIcon className="h-[3.4375rem] fill-white"></EnvelopeIcon>,
     conTitle: "Email Address:",
-    conCap: "utsavdodiya.svmr@gmail.com",
+    conCap: "utsavd.tech@gmail.com",
   },
 ];
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -72,3 +76,5 @@ export const conInfo = [
 ];
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

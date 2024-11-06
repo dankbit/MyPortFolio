@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { FiSearch } from "react-icons/fi";
 
 const SearchWidget = () => {
@@ -27,6 +28,8 @@ export default SearchWidget;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { FiSearch } from "react-icons/fi";
 
 const SearchWidget = () => {
@@ -51,6 +54,7 @@ const SearchWidget = () => {
 };
 
 export default SearchWidget;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -81,3 +85,5 @@ const SearchWidget = () => {
 export default SearchWidget;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

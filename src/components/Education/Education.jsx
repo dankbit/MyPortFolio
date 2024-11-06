@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { BsFillDice1Fill } from "react-icons/bs";
 import { education } from "../../data/education";
 import { SectionTitleIcon } from "../SectionTitles";
@@ -47,6 +48,8 @@ export default Education;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { BsFillDice1Fill } from "react-icons/bs";
 import { education } from "../../data/education";
 import { SectionTitleIcon } from "../SectionTitles";
@@ -91,6 +94,7 @@ const Education = (props) => {
 };
 
 export default Education;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -141,3 +145,5 @@ const Education = (props) => {
 export default Education;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

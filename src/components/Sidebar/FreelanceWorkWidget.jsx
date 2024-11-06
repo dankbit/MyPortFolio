@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { Link } from "react-router-dom";
 import PatternImg2 from "../../assets/images/patternImg2.jpg";
 import FreelanceWorkMockup from "../../assets/images/resources/freelanceWorkMockup.png";
@@ -48,6 +49,8 @@ export default FreelanceWorkWidget;
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { Link } from "react-router-dom";
 import PatternImg2 from "../../assets/images/patternImg2.jpg";
 import FreelanceWorkMockup from "../../assets/images/resources/freelanceWorkMockup.png";
@@ -93,6 +96,7 @@ const FreelanceWorkWidget = () => {
 };
 
 export default FreelanceWorkWidget;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -144,3 +148,5 @@ const FreelanceWorkWidget = () => {
 export default FreelanceWorkWidget;
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

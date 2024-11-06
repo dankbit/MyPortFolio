@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { ReactComponent as LinkedInIcon } from "../lib/icons/icons8-linkedin.svg";
 import { ReactComponent as GithubIcon } from "../lib/icons/icons8-github.svg";
 import { ReactComponent as TwitterIcon } from "../lib/icons/icons8-twitter.svg";
@@ -30,6 +31,8 @@ export const social4 = [
 =======
 =======
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
 import { ReactComponent as LinkedInIcon } from "../lib/icons/icons8-linkedin.svg";
 import { ReactComponent as GithubIcon } from "../lib/icons/icons8-github.svg";
 import { ReactComponent as TwitterIcon } from "../lib/icons/icons8-twitter.svg";
@@ -57,6 +60,7 @@ export const social4 = [
     socialTitle: "Twitter",
   },
 ];
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f057f81 (Updated Site)
 =======
@@ -90,3 +94,5 @@ export const social4 = [
 ];
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)

@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import React from 'react';
 import { Link as ScrollLink } from 'react-scroll';
 
@@ -202,6 +203,8 @@ export default MenuLinks;
 >>>>>>> f057f81 (Updated Site)
 =======
 =======
+=======
+>>>>>>> ab762c9 (done)
 import React from 'react';
 import { Link as ScrollLink } from 'react-scroll';
 
@@ -306,5 +309,8 @@ const MenuLinks = () => {
 };
 
 export default MenuLinks;
+<<<<<<< HEAD
 >>>>>>> fc4c443 (done)
 >>>>>>> 892f3f4 (done)
+=======
+>>>>>>> ab762c9 (done)
