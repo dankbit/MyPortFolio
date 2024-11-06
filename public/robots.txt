@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
@@ -7,3 +8,13 @@ Disallow:
 User-agent: *
 Disallow:
 >>>>>>> f057f81 (Updated Site)
+=======
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+=======
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+>>>>>>> fc4c443 (done)
+>>>>>>> 892f3f4 (done)
