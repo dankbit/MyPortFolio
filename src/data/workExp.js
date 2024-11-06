@@ -16,7 +16,7 @@ export const workExp = [
     expCount: '2',
     expDate: '2023 - 2024',
     expImg: ExpImg1,
-    expTitle: 'Web Developer',
+    expTitle: 'Web Developer Intern',
     expSubTitle: 'Creative Vaibes',
   },
   
