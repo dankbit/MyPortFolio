@@ -1,7 +1,7 @@
 export const ResponsiveMenuData = [
   {
     title: 'Home',
-    path: '/Home',
+    path: '/home',
   },
 
   {

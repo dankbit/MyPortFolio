@@ -43,7 +43,7 @@ const Portfolio = () => {
                     <div className='projInfo transition-all ease-in-out duration-500 delay-200 absolute left-0 group-hover:top-2/4 top-3/4 translate-y-[-50%] p-5 text-center w-full z-[1] opacity-0 invisible group-hover:opacity-100 group-hover:visible'>
                       <h3 className='text-white text-[1.375rem] md:text-[1.625rem] font-Poppins font-bold'>
                       <a
-                            href="https://iidglobalinstitute.com/"
+                            href={portfolio[index].projectsrc}
                             target="_blank"
                             rel="noopener noreferrer"
                             title={item.portTitle}
@@ -58,7 +58,7 @@ const Portfolio = () => {
                         <RightDownIcon
                         onClick={() => {
                           window.open(
-                            'https://iidglobalinstitute.com/',
+                            portfolio[index].projectsrc,
                             '_blank'
                           );
                         }}
@@ -76,7 +76,7 @@ const Portfolio = () => {
                           <RightDownIcon
                             onClick={() => {
                               window.open(
-                                'https://designook.vercel.app/',
+                                portfolio[index].projectsrc,
                                 '_blank'
                               );
                             }}

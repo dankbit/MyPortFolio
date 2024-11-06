@@ -78,7 +78,7 @@ const ResponsiveSubMenu = ({ item }) => {
           </i>
         </span>
         {responsiveSubnav && (
-          <ul className="pl-3 flex flex-col gap-2 mt-2">
+          <ul className="pl-3  flex flex-col gap-2 mt-2">
             {item.responsiveSubNav.map((item, index) => {
               return (
                 <li key={index}>
