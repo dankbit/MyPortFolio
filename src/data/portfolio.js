@@ -10,6 +10,7 @@ export const portfolio = [
     portTitle: "IID Global",
     portSubTitle: "WordPress Design Website",
     portcate: "graphic",
+    projSrc : "https://iidglobalinstitute.com/"
   },
   {
     id: 2,
@@ -18,6 +19,7 @@ export const portfolio = [
     portTitle: "NoteX",
     portSubTitle: "A Basic Notes Sharing Website",
     portcate: "development",
+    projSrc : "https://iidglobalinstitute.com/"
   },
  
 ];
